@@ -1,0 +1,38 @@
+LINUX - dicas, comandos e atalhos
+
+***
+fonte: "https://gist.github.com/aalvesjr/4083810"
+Sobre isso: Usar mais de uma aba no terminal e outros comandos.
+
+TERMINAL: CTROL + ALT + T
+Abre o terminal.
+ 
+NOVA ABA: CTROL + SHIFT + T
+Abre uma nova aba, muito útil, quando se torna necessário varias instancias do terminal, possibilitando centralizar tudo em uma única janela.
+ 
+FECHAR ABA: SHIFT + CTROL + W
+Fecha a aba atual do terminal.
+ 
+ALTERNAS ENTRE ABAS: ALT + NUMERO DA ABA
+Esse atalho serve para praticamente em todas as janelas do sistema operacional e não apenas do terminal.
+O número da aba é definido da esquerda para direita, ou seja, se é a 3° aba da esquerda para direita logo para alterar para ela o comando é alt + 3. 
+ 
+LIMPAR TERMINAL: CTROL + L
+A mesma função do comando 'clear', esse comando insere uma serie de quebras de linhas 'limpando' o conteúdo do terminal.
+ 
+SAIR: CTROL + D
+Mesma função do comando 'exit', como o nome diz, o comando sai do terminal.
+Uma vez logado como root o atalho sai do modo root, e fica no modo usuário comum.
+Com terminal logado com o usuário comum, ao acionar esse atalho fecha a janela do terminal..
+Logado como root, basta acionar duas vezes o atalho que fa janela é fechada.
+ 
+COPIAR: CTROL + SHIFT + C
+Permite copiar textos do terminal.
+ 
+COLAR :CTROL + SHIFT + V
+Permite colar textos no terminal
+
+***
+
+*** Pesquisar sobre os comandos de busca...
+

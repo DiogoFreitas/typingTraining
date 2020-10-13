@@ -1,0 +1,23 @@
+Na Biblioteca Central da UNIRIO. Em um dos livros sobre Linux havia informaçoes sobre o VIM.
+Este arquivo é mais um para conter alguns atalhos e dicas sobre o Vim.
+<!
+Tarefas:
+o arquivo user 7 contém informações sobre o uso de várias telas pelo editor de texto.
+-->
+
+*mostrar o número de linhas
+   ativar -> :set nu;
+desativar -> :set nonu;
+
+*Basic movements
+nG Ngg -> line n, default the last, first
+
+
+*Operação de edição
+[ a, A ], [Insere texto depois do cursos atual e insere texto no final da linha];
+[ i, I ], [Insere texto a partir do cursos atual e insere texto no início da linha];
+[ o, O ], [Abre uma linha abaixo do cursor atual e abre uma linha acima do cursos atual];
+[ s, S ], [ Apaga o caracter atual sob o cursor e entra no modo de edição. E apaga o caractere da linha atual sob o cursor e entra no modo de inserção];
+
+
+	
