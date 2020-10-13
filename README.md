@@ -1,0 +1,1 @@
+   --> Configurara essa branch master no repositório -> comando: git push --set-upstream origin mastecação do que é o STUUF -->r
